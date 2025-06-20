@@ -4,6 +4,9 @@ Implementation of the UDF language according to the [official reference manual](
 
 Built with CDK, Flex, Bison, and C++.
 
+# Grade 
+18/20
+
 ## Build
 
 ```bash
